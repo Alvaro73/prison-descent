@@ -17,11 +17,3 @@ La última versión del juego está disponible para su descarga en la sección d
 ## Tecnologías
 
 - El juego ha sido desarrollado utilizando **Godot Engine**.
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, abre un *issue* o envía un *pull request*.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT.
